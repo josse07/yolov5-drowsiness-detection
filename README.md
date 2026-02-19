@@ -16,7 +16,7 @@ The model performs live detection through a webcam feed, making it suitable for 
 
 ## 🎯 Objectives
 
-- Build a computer vision model for detecting drowsiness
+- Build a computer vision model for detecting drowsiness.
 - Collect custom image dataset using webcam
 - Annotate dataset using LabelImg
 - Train YOLOv5 custom detector
